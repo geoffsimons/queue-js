@@ -1,0 +1,19 @@
+{
+  "name": "gws-queue",
+  "version": "1.0.0",
+  "description": "Object based implementation of a Queue in JavaScript",
+  "main": "queue.js",
+  "scripts": {
+    "test": "DEBUG='mnp*' mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.4.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
